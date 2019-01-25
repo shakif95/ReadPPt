@@ -1,0 +1,17 @@
+C:\ASPWorkSpace\ReadPPtFiles\ReadPPtFiles\bin\Debug\ReadPPtFiles.exe.config
+C:\ASPWorkSpace\ReadPPtFiles\ReadPPtFiles\bin\Debug\ReadPPtFiles.exe
+C:\ASPWorkSpace\ReadPPtFiles\ReadPPtFiles\bin\Debug\ReadPPtFiles.pdb
+C:\ASPWorkSpace\ReadPPtFiles\ReadPPtFiles\bin\Debug\NetOffice.dll
+C:\ASPWorkSpace\ReadPPtFiles\ReadPPtFiles\bin\Debug\OfficeApi.dll
+C:\ASPWorkSpace\ReadPPtFiles\ReadPPtFiles\bin\Debug\PowerPointApi.dll
+C:\ASPWorkSpace\ReadPPtFiles\ReadPPtFiles\bin\Debug\VBIDEApi.dll
+C:\ASPWorkSpace\ReadPPtFiles\ReadPPtFiles\bin\Debug\stdole.dll
+C:\ASPWorkSpace\ReadPPtFiles\ReadPPtFiles\bin\Debug\NetOffice.xml
+C:\ASPWorkSpace\ReadPPtFiles\ReadPPtFiles\bin\Debug\OfficeApi.xml
+C:\ASPWorkSpace\ReadPPtFiles\ReadPPtFiles\bin\Debug\PowerPointApi.xml
+C:\ASPWorkSpace\ReadPPtFiles\ReadPPtFiles\bin\Debug\VBIDEApi.xml
+C:\ASPWorkSpace\ReadPPtFiles\ReadPPtFiles\obj\Debug\ReadPPtFiles.csprojAssemblyReference.cache
+C:\ASPWorkSpace\ReadPPtFiles\ReadPPtFiles\obj\Debug\ReadPPtFiles.csproj.CoreCompileInputs.cache
+C:\ASPWorkSpace\ReadPPtFiles\ReadPPtFiles\obj\Debug\ReadPPtFiles.csproj.CopyComplete
+C:\ASPWorkSpace\ReadPPtFiles\ReadPPtFiles\obj\Debug\ReadPPtFiles.exe
+C:\ASPWorkSpace\ReadPPtFiles\ReadPPtFiles\obj\Debug\ReadPPtFiles.pdb
